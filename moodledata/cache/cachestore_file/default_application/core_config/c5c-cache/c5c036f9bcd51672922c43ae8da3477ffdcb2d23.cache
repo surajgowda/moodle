@@ -1,0 +1,74 @@
+a:7:{s:15:"backgroundimage";s:0:"";s:10:"brandcolor";s:0:"";s:6:"preset";s:12:"default.scss";s:11:"presetfiles";s:0:"";s:4:"scss";s:1368:".navbar{
+    background: url(https://www.msrit.edu/img/ramaiah-header-astric.jpg);
+    max-height:100px;
+}
+.navbar *{
+    color: white;
+}
+.nav-link{
+    background-color: transparent !important;
+}
+
+.btn{
+    border:none !important;
+}
+.login a {
+    background-color: #a8406a;
+    padding: 10px;
+    border-radius: 7px;
+    font-weight:bold;
+    text-decoration: none;
+}
+.navbar-brand{
+    font-weight: bold;
+    font-size: larger;
+}
+.dropdown-menu *{
+color:black;
+}
+
+#nav-drawer{
+    background-color: #a8406a;
+}
+.list-group-item{
+    background-color: transparent;
+    border: none;
+    color: white;
+    font-weight: bolder;
+    margin: 5px;
+}
+.list-group-item:hover{
+    background-color: #d15b3d;
+color:white;
+}
+.list-group-item.active{
+    background-color: #d15b3d;
+    border: none;
+}
+
+.root_node{
+
+    border-top: 1px solid white;
+}
+.card-title {
+    display: block !important;
+padding:10px;
+    margin-bottom: 0.75rem;
+    /*background: linear-gradient(#a83b65, #814c76);
+    width: 100%;*/
+  background-color:#242a52;
+    font-family: "Gotham-Medium_5", Gotham-Bold_6, Gotham-Medium, Roboto, Source Sans Pro, sans-serif;
+    color: #fff;
+    width: 100%;
+}
+#page-header .logo img {
+    max-height: 110px;
+}
+
+.card{
+border:none;
+}
+
+#page-footer{
+  background-color:#242a52 !important;
+}";s:7:"scsspre";s:0:"";s:7:"version";s:10:"2020110900";}
